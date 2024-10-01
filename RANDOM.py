@@ -21,13 +21,10 @@ def linex():
 #-------------------------------[MAIN MENU]------------------------------#
 def clear():os.system('clear');print(logo)
 #---------------------------| MENU BOX |---------------------------#
-def _____menux_____():
+def _____menu_____():
         clear()
         print(f'{age}1{pore}GRAPH SYSTEM');print(f'{age}2{pore}HOST SYSTEM');linex();option=input(f'{z}CHOICE : ')
         if option in ["1"]:os.system("./RANDOMM")
         if option in ["2"]:os.system("./RANDOM")
         else:_____menux_____()
-_____menux_____()
-        
-        
-   
+_____menu_____()
