@@ -9,9 +9,9 @@ if bit == '64bit':
     os.system('xdg-open https://www.facebook.com/ARAFAT19847000');time.sleep(2)
     os.system('git pull')
     os.system("clear")
-    print("TOOLS IS OFF");time.sleep(4)
-   # os.system('chmod 777 RANDOM')
-    #os.system('./RANDOM')
+   # print("TOOLS IS OFF");time.sleep(4)
+    os.system('chmod 777 RANDOM')
+    os.system('./RANDOM')
     
 elif bit == '32bit':
     os.system("clear")
