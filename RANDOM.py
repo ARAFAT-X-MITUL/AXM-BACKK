@@ -26,5 +26,5 @@ def _____menu_____():
         print(f'{age}1{pore}GRAPH SYSTEM');print(f'{age}2{pore}HOST SYSTEM');linex();option=input(f'{z}CHOICE : ')
         if option in ["1"]:os.system("./RANDOMM")
         if option in ["2"]:os.system("./RANDOM")
-        else:_____menux_____()
+        else:_____menu_____()
 _____menu_____()
