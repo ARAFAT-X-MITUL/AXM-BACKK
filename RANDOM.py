@@ -6,7 +6,10 @@ try:
     ahydra = output.replace(',', '|').replace('\n', '')
 except Exception as e:pass;ahydra = None
 bit = platform.architecture()[0]
-os.system("git pull")
+os.system('clear')
+os.system('xdg-open https://chat.whatsapp.com/IIFAd4VrnBk2XJZrGs2oxw');time.sleep(2)
+os.system('xdg-open https://www.facebook.com/ARAFAT19847000');time.sleep(2)
+os.system('git pull')
 #__________________[ TOOL VERSION ]__________________#
 try:
     version = requests.get("htt"+"ps://r"+"aw.git"+"hubus"+"erc"+"onten"+"t.com/AR"+"AFAT-"+"X-MI"+"TUL/AC"+"CE"+"SS/ma"+"in/vers"+"ion.txt").text
