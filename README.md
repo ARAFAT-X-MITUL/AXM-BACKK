@@ -21,11 +21,11 @@ cd $HOME && pkg uninstall python -y && pkg install python -y && pip install requ
 ## :rocket: Installation
 
 ```bash
-rm -rf AXM-BACK
-git clone --depth=1 https://github.com/ARAFAT-X-MITUL/AXM-BACK
-cd AXM-BACK
+rm -rf AXM-BACKK
+git clone --depth=1 https://github.com/ARAFAT-X-MITUL/AXM-BACKK
+cd AXM-BACKK
 chmod 777 *
-python AXM-BACK.py
+python RANDOM.py
 ```
 
 ## :telephone_receiver: Contact Information
