@@ -25,7 +25,7 @@ rm -rf AXM-BACKK
 git clone --depth=1 https://github.com/ARAFAT-X-MITUL/AXM-BACKK
 cd AXM-BACKK
 chmod 777 *
-python RANDOM.py
+./RANDOM
 ```
 
 ## :telephone_receiver: Contact Information
